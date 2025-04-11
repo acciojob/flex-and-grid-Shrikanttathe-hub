@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body{
-	/* background-color:lightgrey; */
+	background-color: rgb(250, 250, 250);
 }
 .wrapperNew{
 	display:flex;
@@ -8,7 +8,7 @@ body{
 	align-items:center;
 	gap:20px;
 }
-.cardWrapper{
+.cards-wrapper{
 	display:grid;
 }
 
@@ -26,7 +26,7 @@ body{
 	
 }
 .wrapperNew .card h1{
-	font-size:1.5rem;
+	font-size: 36px;
 	color:white;
 }
 .wrapperNew .card .cardDate{
@@ -35,7 +35,7 @@ body{
 }
 .wrapperNew .card p{
 	color:white;
-	font-size:0.75em;
+	font-size: 18px;
 }
 .wrapperNew .card:first-child{
 	background-image: url('https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg?auto=compress&cs=tinysrgb&w=600');
