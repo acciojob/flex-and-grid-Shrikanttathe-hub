@@ -29,6 +29,10 @@ body{
 	font-size:1.5rem;
 	color:white;
 }
+.wrapperNew .card .cardDate{
+	color:white;
+	justify-self:end;
+}
 .wrapperNew .card p{
 	color:white;
 	font-size:0.75em;
@@ -37,22 +41,19 @@ body{
 	background-image: url('https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg?auto=compress&cs=tinysrgb&w=600');
 	background-position:center;
 	background-size:100%;
-	
-	
+
 }
 .wrapperNew .card:nth-child(2){
 	background-image: url('https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg?auto=compress&cs=tinysrgb&w=600');
 	background-position:center;
 	background-size:100%;
-	
-	
+
 }
 .wrapperNew .card:nth-child(3){
 	background-image: url('https://images.pexels.com/photos/2102416/pexels-photo-2102416.jpeg?auto=compress&cs=tinysrgb&w=600');
 	background-position:center;
 	background-size:100%;
-	
-	
+
 }
 button{
 	border:none;
